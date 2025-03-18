@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Loganathane!
 
-🚀 **Tech Enthusiast | AI Innovator | Full-Stack Developer | Game Developer**  
+🚀 **Tech Enthusiast | Innovator | Full-Stack Developer | Game Developer**  
 
 I'm a passionate **Tech Architect** with 15+ years of experience specializing in **WordPress, Drupal, and PHP**. I love building innovative solutions, optimizing workflows, and exploring cutting-edge technologies.
 
