@@ -24,6 +24,6 @@ I'm a passionate **Tech Architect** with 15+ years of experience specializing in
 ### 📫 Connect with Me:
 - 🌍 **Website**: [www.loganathane.com](https://www.loganathane.com)
 - 💼 **LinkedIn**: [linkedin.com/in/loganathane](https://www.linkedin.com/in/loganathane)
-- 🏗️ **GitHub**: [github.com/loganathane](https://github.com/vloganathane)
+- 🏗️ **GitHub**: [github.com/vloganathane](https://github.com/vloganathane)
 
 🚀 Let's innovate and build the future together!
