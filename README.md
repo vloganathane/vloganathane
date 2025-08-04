@@ -2,7 +2,7 @@
 
 🚀 **Tech Enthusiast | Innovator | Full-Stack Developer | Game Developer**  
 
-I'm a passionate **Tech Architect** with 15+ years of experience specializing in **WordPress, Drupal, and PHP**. I love building innovative solutions, optimizing workflows, and exploring cutting-edge technologies.
+I'm a passionate **Tech Architect** with 17+ years of experience specializing in **WordPress, Drupal, and PHP**. I love building innovative solutions, optimizing workflows, and exploring cutting-edge technologies.
 
 ### 🛠️ What I Do:
 - **Web Development**: WordPress (Plugins, Themes, Elementor), Drupal, Next.js, TypeScript
