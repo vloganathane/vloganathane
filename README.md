@@ -17,6 +17,7 @@ Bringing 17+ years of experience in crafting scalable, intelligent, and develope
 
 🌐 **Let’s Collaborate!**
 I’m open to consulting, freelance work, or joining your next big project.
+
 📩 Reach out or explore more at:
 
 * 🌍 Website: [www.loganathane.com](https://www.loganathane.com)
