@@ -24,7 +24,3 @@ I’m open to consulting, freelance work, or joining your next big project.
 * 💼 LinkedIn: [linkedin.com/in/loganathane](https://linkedin.com/in/loganathane)
 * 💻 GitHub: [github.com/vloganathane](https://github.com/vloganathane)
 
----
-
-Would you like a shorter version for your GitHub profile README or want help creating a `README.md` for your profile repo?
-
