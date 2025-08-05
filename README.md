@@ -1,6 +1,6 @@
 👋 Hi, I’m **Loganathane V** — Tech Architect | Full-Stack Developer | AI Innovator | Farmer
 
-Bringing 17+ years of experience in crafting scalable, intelligent, and developer-friendly solutions.
+Bringing 17+ years of experience in crafting scalable, intelligent, and **client-focused digital solutions**.
 
 🔧 **Expertise:**
 
@@ -16,11 +16,10 @@ Bringing 17+ years of experience in crafting scalable, intelligent, and develope
 * [**ai-short-scripts**](https://github.com/vloganathane/ai-short-scripts): Real-world AI automation in under 50 lines of Python
 
 🌐 **Let’s Collaborate!**
-I’m open to consulting, freelance work, or joining your next big project.
+I help businesses, agencies, and startups bring ideas to life through smart, scalable, and AI-powered technology.
 
 📩 Reach out or explore more at:
 
 * 🌍 Website: [www.loganathane.com](https://www.loganathane.com)
 * 💼 LinkedIn: [linkedin.com/in/loganathane](https://linkedin.com/in/loganathane)
 * 💻 GitHub: [github.com/vloganathane](https://github.com/vloganathane)
-
